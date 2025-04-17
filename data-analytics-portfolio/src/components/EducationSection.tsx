@@ -144,7 +144,7 @@ export function EducationSection() {
                 <CardContent>
                   {cert.link && (
                     <a
-                      href={cert.link}
+                      href={"https://www.udemy.com/certificate/UC-46636a91-5741-46b7-91c1-aa25817088ac/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com"}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-sm font-medium text-blue-600 hover:underline"
